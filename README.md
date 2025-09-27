@@ -134,8 +134,8 @@ sh install.sh
 > - Advance to next step: Press Enter to advance to the next step.
 
 <h2>💻 Help</h2>
-If you have any questions or need help with the project, please visit our <a href="https://github.com/meowrch/meowrch/wiki">Wiki</a>. Here you will find useful guides and information to help you better understand how to use our product.<br><br>
-If you encounter bugs or issues that are not on our <a href="https://github.com/meowrch/meowrch/wiki">Wiki</a>, feel free to report them in the <a href="https://github.com/meowrch/meowrch/issues">Issues</a> section.
+If you have any questions or need help with the project, please visit our <a href="https://meowrch.github.io/">Wiki</a>. Here you will find useful guides and information to help you better understand how to use our product.<br><br>
+If you encounter bugs or issues that are not on our <a href="https://meowrch.github.io/">Wiki</a>, feel free to report them in the <a href="https://github.com/meowrch/meowrch/issues">Issues</a> section.
 <br><br>
 We also suggest visiting our <a href="https://t.me/meowrch">Telegram</a>, where you will find <a href="https://t.me/meowrch/9">news</a>, <a href="https://t.me/meowrch/22">reviews</a> and <a href="https://t.me/meowrch/7">quick support</a>.
 <br><br>
