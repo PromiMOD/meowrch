@@ -113,7 +113,7 @@
 If you already have Linux Arch installed, then follow the steps below:
 ### 1. Clone the repository
 ```
-git clone https://github.com/meowrch/meowrch.git
+git clone https://github.com/PromiMOD/meowrch.git
 ```
 ### 2. Go to the catalog with the project
 ```
